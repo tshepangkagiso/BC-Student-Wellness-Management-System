@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jul 20 20:11:44 SAST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-0198-2908-dd2e-0000057e3d08 
+on database directory C:\Users\tshep\OneDrive\Desktop\BC-Student-Wellness-Management-System\Milestone 2\PRG381_GroupV2_DesktopApp\wellnessDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@11a4022a 
+Loaded from file:/C:/Users/tshep/Downloads/derby%20jar%20files/derby.jar
+java.vendor=Azul Systems, Inc.
+java.runtime.version=24.0.1+9
+user.dir=C:\Users\tshep\OneDrive\Desktop\BC-Student-Wellness-Management-System\Milestone 2\PRG381_GroupV2_DesktopApp
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
